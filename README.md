@@ -1,0 +1,2 @@
+# dimdatblog
+dimdat tutorial code
